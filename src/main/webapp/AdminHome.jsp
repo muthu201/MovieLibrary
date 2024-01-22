@@ -42,6 +42,8 @@
 	<%} %>
 	</table>
 	
-	<a href="AddMovie.jsp">AddMovie</a>
+	<a href="AddMovie.jsp">AddMovie</a><br>
+	<br>
+	<a href="logOut">LogOut</a>
 </body>
 </html>
